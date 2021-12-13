@@ -26,8 +26,6 @@ More unique features will be added as we progress in creating the game
 
 ## 3D Environment Sketch
 
-![image](https://user-images.githubusercontent.com/61174498/145721726-2b99fc71-d6e2-4e13-a2d7-8f0ae9b11fec.png)
-
 Because this is the snake game, as we know the purpose of this game is to gain points by arranging the snake to “eat” the points and not make the snake crash the obstacle / wall. Because when the snake crashes the wall, the game is over. The differences between this game and the original one is in the lighting sources. When the snake moves, the line of sight of the snake also moves along with the snake. There will also be food with debuffs like blind which make the line of sight very small, thus making the game more challenging.
 
 ## Interaction and Technology
